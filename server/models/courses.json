@@ -1,32 +1,14 @@
 [
     {
-        "id": "15779b06-e238-4382-8673-5adf570817bb",
-        "title": "BMW",
-        "price": "50000",
-        "author": "shakhruz"
+        "id": "08a804cf-7ee0-42e8-9ae1-c820a390fadc",
+        "title": "it",
+        "price": "123000",
+        "author": "davronbek"
     },
     {
-        "id": "5e07edb0-acf7-40f2-98e4-d4defaaea752",
-        "title": "Lamborghini",
-        "price": "100000",
-        "author": "shakhruz"
-    },
-    {
-        "id": "e3c6419c-b3ce-437d-9cb5-45897730232b",
-        "title": "Ferrari",
-        "price": "90000",
-        "author": "shakhruz"
-    },
-    {
-        "id": "ceb0e8b8-7100-423f-90bd-9dd26f33b552",
-        "title": "Onex",
-        "price": "50000",
-        "author": "shakhruz"
-    },
-    {
-        "id": "72e77614-c51d-431c-bfb8-87edb17eb121",
-        "title": "Elantra",
-        "price": "70000",
-        "author": "shakhruz"
+        "id": "84a9426e-3674-485a-9809-55c0643c9c77",
+        "title": "adadf",
+        "price": "sdfsd",
+        "author": "fsdf"
     }
 ]
